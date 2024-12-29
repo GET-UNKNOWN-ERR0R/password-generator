@@ -6,4 +6,4 @@ then
     exit
 fi
 
-python3 password_generator.py
+python3 passwd-generator.py
