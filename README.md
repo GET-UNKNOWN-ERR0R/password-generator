@@ -2,7 +2,7 @@
 
 A Python-based **Password Generator** tool that can create random passwords with customizable settings. Users can also generate passwords partially based on their name for a personal touch.
 
-### 0UTPUT
+### OUTPUT
 
 ![passwd image](passwd.png)
 
